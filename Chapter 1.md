@@ -138,6 +138,7 @@ Make it easy for system running smoothly
 * Make it easy for new developer to understand the system
 
 * Making a system simpler does not necessarily mean reducing its functionality; it can
-also mean removing accidental complexity. 
-3-**Evolvability**
+also mean removing accidental complexity.
+
+3- **Evolvability**
 Make it easy for engineers to make changes to the system in the future
