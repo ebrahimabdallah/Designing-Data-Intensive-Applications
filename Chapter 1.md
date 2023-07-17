@@ -108,7 +108,7 @@ request is waiting to be handled
 * **the mean**  not a very good metric if you want to ” response time, because it doesn’t tell you how many users actually experienced
 that delay
 
-**percentiles** is better  If you take your list of response times
+* **percentiles** is better  If you take your list of response times
 
 
 # Maintainability
