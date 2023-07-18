@@ -12,11 +12,11 @@ achieve: reliable, scalable, and maintainable data systems
 
 3- search indexes :-Allow users to search data by keyword or filter it in various ways
 
-4-stream pro‐cessing :-Send a message to another process asynchronously 
+4-stream processing :-Send a message to another process asynchronously 
 
 5-batch processing:-Periodically  large amount of data
 
-* many database systems with different charac‐
+* many database systems with different charac
 teristics, because different applications have different requirements
 
 # Thinking About Data Systems
