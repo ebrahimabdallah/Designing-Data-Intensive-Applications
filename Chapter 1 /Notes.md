@@ -3,8 +3,7 @@
 * In this chapter, we will start by exploring the fundamentals of what we are trying to
 achieve: reliable, scalable, and maintainable data systems
 
-* **A data-intensive** application is typically built from standard building blocks that pro‐
-vide commonly needed functionality
+* **A data-intensive** application is typically built from standard building blocks that provide commonly needed functionality
 - This apps which needs these terms:
 
 1-databases:-store data to user 
